@@ -1,0 +1,15 @@
+matplotlib
+numpy
+mne
+mne-nirs
+jupyter
+ipykernel
+pooch
+tqdm 
+pyvista
+pyvistaqt
+PyQt5
+h5py
+pandas
+nilearn
+seaborn
